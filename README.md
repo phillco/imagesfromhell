@@ -1,4 +1,4 @@
-ImagesInHell
+ImagesFromHell
 ============
 
 This is the collection of screenshots and mockups used by my blog, [Users in Hell](http://usersinhell.com) ([phillco/usersinhell](https://github.com/phillco/usersinhell) on GitHub). The contents are always duplicated on [images.usersinhell.com](http://images.usersinhell.com).
